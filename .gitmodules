@@ -1,0 +1,3 @@
+[submodule "src/uno-ble"]
+	path = src/uno-ble
+	url = git@github.com:nacansino/uno-ble.git
