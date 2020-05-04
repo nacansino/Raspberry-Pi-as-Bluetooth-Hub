@@ -1,3 +1,4 @@
-[submodule "src/uno-ble/lib/SparkFun_HM1X_Bluetooth_Arduino_Library"]
-	path = src/uno-ble/lib/SparkFun_HM1X_Bluetooth_Arduino_Library
-	url = git@github.com:nacansino/SparkFun_HM1X_Bluetooth_Arduino_Library.git
+
+[submodule "uno-ble"]
+	path = uno-ble
+	url = git@github.com:nacansino/uno-ble.git
