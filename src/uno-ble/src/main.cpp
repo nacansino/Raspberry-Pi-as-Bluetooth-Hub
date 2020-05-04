@@ -51,7 +51,7 @@ void setup() {
   // a desired serial baud rate.
   // Returns true on success
   if (bt.begin(btSerial, 9600) == false) {
-    Serial.println(F("Failed to connect to the HM-13."));
+    Serial.println(F("Failed to connect to the HM-15."));
     while (1) ;
   }
   Serial.println("Ready to Bluetooth!");
