@@ -1,6 +1,0 @@
-name: Sample Ci
-# This workflow is triggered on pushes to the repository.
-on:
-  push:
-    paths:
-      - 'src/uno-ble/**'
