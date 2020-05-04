@@ -1,0 +1,4 @@
+1. V109 version
+   V109 version cant use AT+PWRM0 command.
+   if you executed it, please flash the firmware. 
+   You can get firmware from www.jnhuamao.cn, in download center, left side, rom download

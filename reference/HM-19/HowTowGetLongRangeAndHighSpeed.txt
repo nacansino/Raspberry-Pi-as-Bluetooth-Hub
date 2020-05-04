@@ -1,0 +1,6 @@
+1. Let module Antenna out of your board.
+2. Use 10uF or 47uF capcacity on module VCC pin.
+3. Setup AT+POWE7 get more power.
+4. Setup AT+GAIN1 and AT+GAIT1.
+5. Use V120 or higher firmware version.
+6. Since V120 module send to android device could send 253 Bytes per package.
