@@ -1,3 +1,6 @@
 [submodule "src/uno-ble"]
 	path = src/uno-ble
 	url = git@github.com:nacansino/uno-ble.git
+[submodule "src/esp32-ble"]
+	path = src/esp32-ble
+	url = git@github.com:nacansino/esp32-ble.git
