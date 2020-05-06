@@ -4,3 +4,6 @@
 [submodule "src/esp32-ble"]
 	path = src/esp32-ble
 	url = git@github.com:nacansino/esp32-ble.git
+[submodule "src/aws-iot-device-sdk-python-v2"]
+	path = src/aws-iot-device-sdk-python-v2
+	url = git@github.com:nacansino/aws-iot-device-sdk-python-v2.git
